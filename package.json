@@ -1,0 +1,13 @@
+{
+  "name": "salesforce-reav-invoicing",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "format": "prettier --write \"force-app/**/*.{cls,trigger}\"",
+    "lint": "prettier --check \"force-app/**/*.{cls,trigger}\""
+  },
+  "devDependencies": {
+    "prettier": "^3.9.9",
+    "prettier-plugin-apex": "^2.3.0"
+  }
+}

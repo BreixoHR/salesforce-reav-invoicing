@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>Invoice Line</label>
+    <pluralLabel>Invoice Lines</pluralLabel>
+    <nameField>
+        <displayFormat>L-{0000000}</displayFormat>
+        <label>Invoice Line Name</label>
+        <type>AutoNumber</type>
+    </nameField>
+    <deploymentStatus>Deployed</deploymentStatus>
+    <sharingModel>ControlledByParent</sharingModel>
+    <description>Línea de factura: categoría, unidades, PVP, coste del proveedor y descuento.</description>
+</CustomObject>

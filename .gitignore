@@ -1,0 +1,4 @@
+node_modules/
+.sf/
+.sfdx/
+.localdevserver/
